@@ -24,6 +24,7 @@ public class AddressBook {
                 System.out.println(contact.getName() + ", " + contact.getPhoneNumber());
             }
         }
+
         System.out.println("연락처를 찾을 수 없습니다.");
     }
 }

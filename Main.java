@@ -49,20 +49,6 @@ public class Main {
                 System.out.println("다시 시도해 주십시오.");
             }
 
-
-//            switch (num) {
-//                case 1:
-//                    System.out.print("이름을 입력하세요: ");
-//                    String name = sc.next();
-//                    System.out.println("전화번호를 입력하세요: ");
-//                    String phoneNumber = sc.next();
-//                    System.out.println("회사명을 입력하세요: ");
-//                    String company = sc.next();
-//                    BusinessContact businessContact = new BusinessContact(name, phoneNumber, company);
-//                    addressBook.arrayList.add(businessContact);
-//                    break;
-//            }
-
         }
     }
 }

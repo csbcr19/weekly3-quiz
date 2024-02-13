@@ -7,9 +7,11 @@ public class PersonalContact extends Contact {
         this.setPhoneNumber(phoneNumber);
         this.setRelationship(relationship);
     }
+
     public String getRelationship() {
         return relationship;
     }
+
     public void setRelationship(String relationship) {
         this.relationship = relationship;
     }

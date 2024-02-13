@@ -8,9 +8,11 @@ public class BusinessContact extends Contact {
         this.setPhoneNumber(phoneNumber);
         this.setCompany(company);
     }
+
     public String getCompany() {
         return company;
     }
+
     public void setCompany(String company) {
         this.company = company;
     }
